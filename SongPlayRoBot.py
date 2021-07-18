@@ -41,8 +41,6 @@ def start(client, message):
                          
                             InlineKeyboardButton('👥 SUPPORT GROUP 👥', url='https://t.me/epusthakalayabotsupport'),
                             InlineKeyboardButton('📣 BOT UPDATES 📣', url='https://t.me/epusthakalaya_bots')
-
-
                             InlineKeyboardButton('⚜️ ADD ME ⚜️', url='https://t.me/EmmaMusicBot?startgroup=true')
                     ]        
                 ]
